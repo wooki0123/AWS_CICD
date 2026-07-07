@@ -12,7 +12,7 @@ on:
       - 'main'
 
 env:
-  IMAGE_NAME: 14565-1 # 이미지 이름 설정
+  IMAGE_NAME: wooki0123 # 이미지 이름 설정
 
 jobs:
   makeTagAndRelease:
